@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to simdatframe's documentation!
+The Similarity Data Framework
 =======================================
+
+This package attempts to provide a convenient, easy-to-use solution for the analysis of similarity relations between data entries.
+
+It's main focus is on materials data, computed or measured in materials science.
 
 .. toctree::
    :maxdepth: 2
