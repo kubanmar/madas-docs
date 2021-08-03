@@ -1,5 +1,5 @@
-=============================
-Main modules of `simdatframe`
+
+Basic modules of `simdatframe`
 =============================
 
 The code is written in a modular way, with four main components:
@@ -9,3 +9,4 @@ The code is written in a modular way, with four main components:
     * An API to connect to local or external data sources
 
 In the following, we will exermine each component in detail.
+
