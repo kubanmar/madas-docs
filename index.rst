@@ -22,10 +22,12 @@ The package is completed by methods to facilitate the similarity matrices for su
    :maxdepth: 1
    :caption: Contents
 
-   about
-   install
+   about <about>
+   install <install>
+   concepts <concepts>
+   applications <applications>
    modules <modules>
-   contact
+   contact <contact>
 
 
 Indices and tables

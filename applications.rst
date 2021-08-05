@@ -1,0 +1,4 @@
+.. _applications:
+
+Exemplary applications
+===================================

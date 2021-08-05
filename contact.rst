@@ -1,0 +1,4 @@
+.. _contact:
+
+Contact information
+===================================
