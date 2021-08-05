@@ -1,6 +1,7 @@
+.. _modules:
 
 Basic modules of `simdatframe`
-=============================
+===================================
 
 The code is written in a modular way, with four main components:
     * A local database
@@ -10,3 +11,10 @@ The code is written in a modular way, with four main components:
 
 In the following, we will exermine each component in detail.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents
+
+   database <modules/data_framework>
+   fingerprint <modules/fingerprint>
+   similarity <modules/similarity>

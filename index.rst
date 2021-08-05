@@ -19,9 +19,13 @@ The fingerprints can be used to calculate a *similarity matrix*, which stores al
 The package is completed by methods to facilitate the similarity matrices for supervised and unsupervied machine learning (ML) applications.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Contents
 
+   about
+   install
+   modules <modules>
+   contact
 
 
 Indices and tables
@@ -29,4 +33,3 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search`
