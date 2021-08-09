@@ -18,3 +18,4 @@ In the following, we will exermine each component in detail.
    database <modules/data_framework>
    fingerprint <modules/fingerprint>
    similarity <modules/similarity>
+   API <modules/API.rst>
