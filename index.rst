@@ -13,7 +13,7 @@ It's main focus is on materials data, computed or measured in materials science.
 A typical use case would be the analysis of a set of calculations in computational materials science (CMS). 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents
 
    about <about>

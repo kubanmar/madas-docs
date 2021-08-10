@@ -3,6 +3,11 @@
 Installation guide
 ===================================
 
+This page shows different ways to install the package.
+
+Installation via source
+++++++++++++++++++++++++++++++++++
+
 Currently, the code can be istalled only through the git project. You can clone the project using:
 
 .. code-block:: bash
@@ -19,7 +24,7 @@ After cloning, you can enter the project folder and install the package using ``
 The installation may take some more minutes. 
 
 Testing
-===================================
+++++++++++++++++++++++++++++++++++
 
 After installation, it is advised to test the code. This can be done in the same directory of the code, using ``pytest``, which will be istalled as a dependency via pip.
 
