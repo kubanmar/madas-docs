@@ -5,7 +5,7 @@ The data framework
 
 The data framework is the basic building block of a data analysis workflow. Data that may be gathered from different sources can be stored in a local database, to provide a fixed source of data, which does not change, *e.g.* if the external data source is altered. Thus, the analysis is repeatable and the results retain reproducible.
 
-To initialize a database, first import yhe class and initialize it by:
+To initialize a database, first import the class and initialize it by:
 
 .. code-block:: python
 
@@ -47,6 +47,8 @@ This results in the following output:
     2021-08-09 19:23:09,543 - materials_database_log - DEBUG - Writing material with mid 6TqhC_bIgwwzoa0bh1ofupUq2qbw:SXi1cv-om8A4uKdUIooHmlLnpJ0q
     2021-08-09 19:23:09,567 - materials_database_log - DEBUG - Writing material with mid JF8fyvkzXDpwx4bpqWlti7QEUZHs:M_4jMsGtPcMGTqMxCfFVF0xw1ODq
     2021-08-09 19:23:09,592 - materials_database_log - DEBUG - Writing material with mid lWd5Ly5rn08lg3uIZ843NdLi1nMr:fNYyPFEpHxrVoxICAx-vkTCluM18
+
+This output is not always the same, because at the time this 
 
 .. automodule:: simdatframe.data_framework
     :members:
