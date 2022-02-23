@@ -15,7 +15,11 @@ In the following, we will exermine each component in detail.
    :maxdepth: 2
    :caption: Contents
 
+   material <modules/material>
    database <modules/data_framework>
    fingerprint <modules/fingerprint>
    similarity <modules/similarity>
-   API <modules/API.rst>
+   API <modules/API>
+   machine learning <modules/machine_learning>
+   clustering <modules/clustering>
+   backend <modules/backend>

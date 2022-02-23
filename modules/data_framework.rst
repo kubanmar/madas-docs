@@ -40,17 +40,17 @@ This results in the following output:
     2021-08-09 19:23:00,931 - test_database_api - INFO - Got materials list.
     Fetching materials 100.000 %
 
-    2021-08-09 19:23:09,325 - materials_database_log - DEBUG - Writing material with mid zgtIgKraH-dRLaVoymLy6Smka9UB:VLAMlHghn_Jw4rpW9E1-a99Qnb5V
-    2021-08-09 19:23:09,349 - materials_database_log - DEBUG - Writing material with mid W7OJrUcN0u2MnlZYPS_96xvDVsN0:tZm0lAa62jOaQzClW9Rr59BscuCD
-    2021-08-09 19:23:09,372 - materials_database_log - DEBUG - Writing material with mid rRlX4tbBdjCJfQao8KQbnzZSflKt:B_LdPJCFFO22Cx_DnWl4rDDNaPDK
-    2021-08-09 19:23:09,397 - materials_database_log - DEBUG - Writing material with mid USYKyJAarPTHpp20Fpq_EMFqc8jd:xgiVvRBHcksVqjmwAuoW31c1HGti
-    2021-08-09 19:23:09,424 - materials_database_log - DEBUG - Writing material with mid vggeFkbJ8Qz36KHe6KA9XkDH49Ae:nqe6o-XEF7-3158xTc2y8see48eU
-    2021-08-09 19:23:09,458 - materials_database_log - DEBUG - Writing material with mid r5jsnDz1ny8cAEZjDT3gxjPT3PmN:OY54HPksvaA8cmvB8r0NJbcNJsan
-    2021-08-09 19:23:09,493 - materials_database_log - DEBUG - Writing material with mid 77mm5w5zS0BZgzWBZ1y7P8ICWmt2:uiiDcDRIm6ZdE__7zrtmInhD9BIJ
-    2021-08-09 19:23:09,518 - materials_database_log - DEBUG - Writing material with mid mxRCD-wtKG4Za5Tv8LEj8iwpxrIp:tPjWX4cYiLIo8xWRPWRs25tJWE6M
-    2021-08-09 19:23:09,543 - materials_database_log - DEBUG - Writing material with mid 6TqhC_bIgwwzoa0bh1ofupUq2qbw:SXi1cv-om8A4uKdUIooHmlLnpJ0q
-    2021-08-09 19:23:09,567 - materials_database_log - DEBUG - Writing material with mid JF8fyvkzXDpwx4bpqWlti7QEUZHs:M_4jMsGtPcMGTqMxCfFVF0xw1ODq
-    2021-08-09 19:23:09,592 - materials_database_log - DEBUG - Writing material with mid lWd5Ly5rn08lg3uIZ843NdLi1nMr:fNYyPFEpHxrVoxICAx-vkTCluM18
+    2021-08-09 19:23:09,325 - materials_database_log - INFO - Writing material with mid zgtIgKraH-dRLaVoymLy6Smka9UB:VLAMlHghn_Jw4rpW9E1-a99Qnb5V
+    2021-08-09 19:23:09,349 - materials_database_log - INFO - Writing material with mid W7OJrUcN0u2MnlZYPS_96xvDVsN0:tZm0lAa62jOaQzClW9Rr59BscuCD
+    2021-08-09 19:23:09,372 - materials_database_log - INFO - Writing material with mid rRlX4tbBdjCJfQao8KQbnzZSflKt:B_LdPJCFFO22Cx_DnWl4rDDNaPDK
+    2021-08-09 19:23:09,397 - materials_database_log - INFO - Writing material with mid USYKyJAarPTHpp20Fpq_EMFqc8jd:xgiVvRBHcksVqjmwAuoW31c1HGti
+    2021-08-09 19:23:09,424 - materials_database_log - INFO - Writing material with mid vggeFkbJ8Qz36KHe6KA9XkDH49Ae:nqe6o-XEF7-3158xTc2y8see48eU
+    2021-08-09 19:23:09,458 - materials_database_log - INFO - Writing material with mid r5jsnDz1ny8cAEZjDT3gxjPT3PmN:OY54HPksvaA8cmvB8r0NJbcNJsan
+    2021-08-09 19:23:09,493 - materials_database_log - INFO - Writing material with mid 77mm5w5zS0BZgzWBZ1y7P8ICWmt2:uiiDcDRIm6ZdE__7zrtmInhD9BIJ
+    2021-08-09 19:23:09,518 - materials_database_log - INFO - Writing material with mid mxRCD-wtKG4Za5Tv8LEj8iwpxrIp:tPjWX4cYiLIo8xWRPWRs25tJWE6M
+    2021-08-09 19:23:09,543 - materials_database_log - INFO - Writing material with mid 6TqhC_bIgwwzoa0bh1ofupUq2qbw:SXi1cv-om8A4uKdUIooHmlLnpJ0q
+    2021-08-09 19:23:09,567 - materials_database_log - INFO - Writing material with mid JF8fyvkzXDpwx4bpqWlti7QEUZHs:M_4jMsGtPcMGTqMxCfFVF0xw1ODq
+    2021-08-09 19:23:09,592 - materials_database_log - INFO - Writing material with mid lWd5Ly5rn08lg3uIZ843NdLi1nMr:fNYyPFEpHxrVoxICAx-vkTCluM18
 
 This output is not always the same, because the data in the NOMAD Encyclopedia may be extended in the future. 
 Thus, new materials may be added or the definition of the material representative may change.

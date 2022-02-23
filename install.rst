@@ -18,7 +18,7 @@ After cloning, you can enter the project folder and install the package using ``
 
 .. code-block:: bash
 
-    cd similarity\_data\_framework
+    cd similarity_data_framework
     pip install -e .
 
 The installation may take some more minutes. 

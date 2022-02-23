@@ -3,5 +3,8 @@
 The similarity matrices
 ==================================
 
-.. automodule:: simdatframe.similarity
+.. autoclass:: simdatframe.similarity.SimilarityMatrix
+    :members:
+
+.. autoclass:: simdatframe.similarity.OverlapSimilarityMatrix
     :members:
