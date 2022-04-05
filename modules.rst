@@ -22,4 +22,6 @@ In the following, we will exermine each component in detail.
    API <modules/API>
    machine learning <modules/machine_learning>
    clustering <modules/clustering>
+   analysis <modules/analysis>
    backend <modules/backend>
+   utils <modules/utils>

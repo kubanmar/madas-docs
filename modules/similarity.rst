@@ -8,3 +8,6 @@ The similarity matrices
 
 .. autoclass:: simdatframe.similarity.OverlapSimilarityMatrix
     :members:
+
+.. autoclass:: simdatframe.similarity.BatchedSimilarityMatrix
+    :members:

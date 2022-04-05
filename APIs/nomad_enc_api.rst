@@ -3,5 +3,5 @@
 An API for the NOMAD Encyclopedia
 ===================================
 
-.. automodule:: simdatframe.apis.NOMAD_enc_API
+.. automodule:: simdatframe.apis.NOMAD_v1_Enc_API
     :members:
