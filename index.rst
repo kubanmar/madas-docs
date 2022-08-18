@@ -7,12 +7,13 @@ The Similarity Data Framework
 This package attempts to provide a convenient, easy-to-use solution for the analysis of similarity relations between materials data.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents
 
    about <about>
    install <install>
    concepts <concepts>
+   tutorials <tutorials>
    applications <applications>
    modules <modules>
    contact <contact>

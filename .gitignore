@@ -2,3 +2,4 @@ _*
 .vscode
 *.code-workspace
 data
+venv

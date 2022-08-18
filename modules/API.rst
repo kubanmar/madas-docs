@@ -14,3 +14,4 @@ API connection wrappers
 
    local data API <../APIs/local_data_api>
    Nomad encyclopedia API <../APIs/nomad_enc_api>
+   Nomad Archive API <../APIs/nomad_client_api>
