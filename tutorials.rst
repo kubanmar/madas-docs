@@ -6,6 +6,9 @@ Tutorials
 In the following you find tutorials that introduce the functionalities of `simdatframe`. You can download them here:
 
 * :download:`Tutorial 1: Database setup <tutorials/1_database_setup.ipynb>`
+* :download:`Tutorial 2: Database setup <tutorials/2_similarity_and_clustering.ipynb>`
+* :download:`Tutorial 3: Database setup <tutorials/3_supervised_machine_learning.ipynb>`
+* :download:`Tutorial 4: Database setup <tutorials/4_calculate_large_similarity_matrices.ipynb>`
 
 You can also read them here:
 
@@ -13,3 +16,6 @@ You can also read them here:
    :maxdepth: 1
 
    tutorials/1_database_setup
+   tutorials/2_similarity_and_clustering
+   tutorials/3_supervised_machine_learning
+   tutorials/4_calculate_large_similarity_matrices

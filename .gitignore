@@ -3,3 +3,4 @@ _*
 *.code-workspace
 data
 venv
+.ipynb_checkpoints
