@@ -12,9 +12,7 @@ This package attempts to provide a convenient, easy-to-use solution for the anal
 
    about <about>
    install <install>
-   concepts <concepts>
    tutorials <tutorials>
-   applications <applications>
    modules <modules>
    contact <contact>
 

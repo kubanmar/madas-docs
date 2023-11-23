@@ -3,7 +3,7 @@
 API connection wrappers
 ===================================
 
-`API` classes are used to implement connections to external data sources, such that the data can be obtained using a unified set of methods. 
+`API` classes are used to implement connections to external data sources, such that the data can be obtained using a unified set of methods.
 
 .. automodule:: simdatframe.apis.api_core
     :members:
@@ -12,6 +12,5 @@ API connection wrappers
    :maxdepth: 2
    :caption: Built-in APIs
 
-   local data API <../APIs/local_data_api>
-   Nomad encyclopedia API <../APIs/nomad_enc_api>
-   Nomad Archive API <../APIs/nomad_client_api>
+   CSV API <../APIs/local_data_api>
+   Nomad Archive API <../APIs/nomad_archive_api>
