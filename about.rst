@@ -3,6 +3,6 @@
 About the project
 ===================================
 
-TODO: Describe the goals and scope of the code 
+`MADAS` is a Python framework for computing similarities between materials.
 
-Download data from: `NOMAD Laboratory <https://nomad-lab.eu/>`_
+<WORKFLOW GRAPH/>

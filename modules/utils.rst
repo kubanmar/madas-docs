@@ -3,5 +3,5 @@
 General utility
 ===================================
 
-.. automodule:: simdatframe.utils
+.. automodule:: madas.utils
     :members:

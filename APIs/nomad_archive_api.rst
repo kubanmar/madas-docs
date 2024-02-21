@@ -1,19 +1,16 @@
-.. _nomad_client_api:
+.. _nomad_archive_api:
 
-An API for the NOMAD Archive
+An API for NOMAD Archive entries
 ===================================
 
-To query data from NOMAD, it is required to specify which data is requested. 
-simdatframe uses the NOMAD API to download data. 
-Then, the data is processed and filtered to be stored in the :doc:`database </modules/data_framework>`. 
-simdatframe allowes to specify:
+The `NOMAD project <https://nomad-lab.eu>`_ provides a rich database of both theoretical and experimental FAIR materials-science data. 
+To access this data, the NOMAD Graphical User Interface (GUI), or the web Application Programming Interface (API) can be used.
+To do so, a query has to be defined, that can be sent to the NOMAD servers. If data matches this query, the corresponding data will be returned.
 
-* which data to download
-* how properties stored in the NOMAD Archive entry can be accessed
-* TODO: be more specific (as given in the tutorial) 
+`MADAS` provides a wrapper for the NOMAD API, that allows users to query NOMAD and recieve the results as :doc:`Material </modules/material>` objects. 
+Then, the data can be processed and filtered to be stored in a :doc:`database </modules/data_framework>`. 
 
-TODO: Write the tutorial
+A complete tutorial with examples is in :doc:`the tutorials section </tutorials/0_API_usage>`. 
 
-
-.. automodule:: simdatframe.apis.NOMAD_web_API
+.. automodule:: madas.apis.NOMAD_web_API
     :members:

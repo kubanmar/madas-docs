@@ -5,7 +5,7 @@ The Fingerprint base class
 
 The fingerprint object provides a base class for the generation of material fingerprints.
 
-It relies on :class:`Material <simdatframe.material.Material>` objects as input.
+It relies on :class:`Material <madas.material.Material>` objects as input.
 
 Usage
 ---------------------------------
@@ -14,7 +14,7 @@ All built-in fingerprints can be generated from the base class:
 
 .. code-block:: python
 
-      from simdatframe import Fingerprint
+      from madas import Fingerprint
 
       dos_fingerprint = Fingerprint("DOS", **<dos_fingerprint_kwargs>).calculate(<material>, **dos_fingerprint_calculate_kwargs)
 
@@ -37,7 +37,7 @@ The corresponding code would look like this:
 
 .. code-block:: python
 
-   from simdatframe import Material, Fingerprint
+   from madas import Material, Fingerprint
 
    def MAN_similarity(fingerprint1, fingerprint2):
       """
@@ -91,7 +91,7 @@ Documentation
 
 The documentation of all methods and parameters can be found below:
 
-.. autoclass:: simdatframe.fingerprint.Fingerprint
+.. autoclass:: madas.fingerprint.Fingerprint
    :members:
 
 Built-in fingerprints
@@ -101,5 +101,6 @@ Built-in fingerprints
 .. toctree::
    :maxdepth: 2
 
+   DOS Fingerprint <../material_fingerprints/dos_fingerprint>
    DUMMY Fingerprint <../material_fingerprints/dummy_fingerprint>
    PROP Fingerprint <../material_fingerprints/prop_fingerprint>

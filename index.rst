@@ -1,8 +1,8 @@
-.. simdatframe documentation master file, created by
+.. madas documentation master file, created by
    sphinx-quickstart on Thu Jul 22 16:34:52 2021.
 
-The Similarity Data Framework
-=======================================
+`MADAS` - the MAterials DAta Similarity framework
+=================================================
 
 This package attempts to provide a convenient, easy-to-use solution for the analysis of similarity relations between materials data.
 
@@ -12,9 +12,10 @@ This package attempts to provide a convenient, easy-to-use solution for the anal
 
    about <about>
    install <install>
-   tutorials <tutorials>
    modules <modules>
+   tutorials <tutorials>
    contact <contact>
+   cite us <cite>
 
 
 Indices and tables

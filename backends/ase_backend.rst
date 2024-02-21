@@ -3,5 +3,5 @@
 A connection to the ASEs AtomsDatabase
 =======================================
 
-.. automodule:: simdatframe.backend.ASE_backend
+.. automodule:: madas.backend.ASE_backend
     :members:

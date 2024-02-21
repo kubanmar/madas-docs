@@ -11,5 +11,5 @@ You can learn more about fingerprints in the :doc:`fingerprint module descriptio
 
 The remaining parameters and methods can be found below.
 
-.. automodule:: simdatframe.data_framework
+.. automodule:: madas.data_framework
     :members:

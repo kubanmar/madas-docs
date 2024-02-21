@@ -3,5 +3,5 @@
 A fingerprint for scalar properties
 =====================================================
 
-.. automodule:: simdatframe.fingerprints.PROP_fingerprint
+.. automodule:: madas.fingerprints.PROP_fingerprint
     :members:

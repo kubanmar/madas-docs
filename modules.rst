@@ -1,6 +1,6 @@
 .. _modules:
 
-Basic modules of `simdatframe`
+Basic modules of `madas`
 ===================================
 
 The code is written in a modular way, with four main components:
@@ -12,7 +12,7 @@ The code is written in a modular way, with four main components:
 In the following, we will exermine each component in detail.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents
 
    material <modules/material>
@@ -20,7 +20,6 @@ In the following, we will exermine each component in detail.
    fingerprint <modules/fingerprint>
    similarity <modules/similarity>
    API <modules/API>
-   machine learning <modules/machine_learning>
    clustering <modules/clustering>
    analysis <modules/analysis>
    backend <modules/backend>

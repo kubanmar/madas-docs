@@ -3,5 +3,5 @@
 A dictionary based backend for testing
 =======================================
 
-.. automodule:: simdatframe.backend.dictionary_backend
+.. automodule:: madas.backend.dictionary_backend
     :members:

@@ -3,5 +3,5 @@
 A cartesian vector fingerprint to showcase use-cases
 =====================================================
 
-.. automodule:: simdatframe.fingerprints.DUMMY_fingerprint
+.. automodule:: madas.fingerprints.DUMMY_fingerprint
     :members:

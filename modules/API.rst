@@ -5,7 +5,9 @@ API connection wrappers
 
 `API` classes are used to implement connections to external data sources, such that the data can be obtained using a unified set of methods.
 
-.. automodule:: simdatframe.apis.api_core
+The `api_core` module contains the `APIClass` base class, which describes all   
+
+.. automodule:: madas.apis.api_core
     :members:
 
 .. toctree::

@@ -3,7 +3,7 @@
 A generic material object
 ===================================
 
-The `Material` class is used as a communication protocol between the different components of `simdatframe`. If follows a simple schema:
+The `Material` class is used as a communication protocol between the different components of `madas`. If follows a simple schema:
 
     Every material can be identified by a unique identifier, the `mid`. This identifier is usually set by the `API`, and can be reversed to obtain the original data from the external database.
 
@@ -11,7 +11,7 @@ The `Material` class is used as a communication protocol between the different c
 
     All data that is obtained from external databases is stored in the materials `data` attribute.
 
-    All data that is computed using `simdatframe` is stored in the materials `properties` attribute.
+    All data that is computed using `madas` is stored in the materials `properties` attribute.
 
-.. automodule:: simdatframe.material
+.. automodule:: madas.material
     :members:

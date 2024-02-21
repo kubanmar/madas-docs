@@ -3,11 +3,11 @@
 The similarity matrices
 ==================================
 
-.. autoclass:: simdatframe.similarity.SimilarityMatrix
+.. autoclass:: madas.similarity.SimilarityMatrix
     :members:
 
-.. autoclass:: simdatframe.similarity.OverlapSimilarityMatrix
+.. autoclass:: madas.similarity.OverlapSimilarityMatrix
     :members:
 
-.. autoclass:: simdatframe.similarity.BatchedSimilarityMatrix
+.. autoclass:: madas.similarity.BatchedSimilarityMatrix
     :members:
