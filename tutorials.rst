@@ -22,3 +22,5 @@ You can also read them here:
 ..   tutorials/2_similarity_and_clustering
 ..   tutorials/3_supervised_machine_learning
 ..   tutorials/4_calculate_large_similarity_matrices
+
+**More tutorials will be added soon!**
