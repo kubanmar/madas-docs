@@ -33,7 +33,7 @@ which are the combination of a *descriptor* of a material and a *similarity meas
 can be defined quickly using the ``Fingerprint`` base class.
 
 Fingerprints can be used to calculate :doc:`similarity matrices </modules/similarity>`. These store the
-similarity scores between materials and their respective *mid*s. The calculation of similarities using
+similarity scores between materials and their respective *mid*. The calculation of similarities using
 the ``SimilarityMatrix`` class is parallelized over all available CPU cores by default and computes only
 unique entries in the matrix. Very large matrices can be computed using the ``BatchedSimilarityMatrix``,
 which allows to parallelize the computation of similarities over HPC clusters, currently supporting the 
