@@ -14,3 +14,10 @@ Python >= 3.9
 ```bash
 pip install -r requirements.txt
 ```
+
+## Build and view the documentation
+
+```bash
+make html
+python3 serve_local.py
+```
