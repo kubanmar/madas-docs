@@ -4,7 +4,7 @@
 `MADAS` - the MAterials DAta Similarity framework
 =================================================
 
-This package attempts to provide a convenient, easy-to-use solution for the analysis of similarity relations between materials data.
+This package provides a convenient, easy-to-use solution for the analysis of similarity relations between materials data.
 
 .. toctree::
    :maxdepth: 1

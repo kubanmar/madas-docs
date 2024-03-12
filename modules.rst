@@ -9,7 +9,7 @@ The code is written in a modular way, with four main components:
     * Modules to calculate and manipulate similarity matrices
     * An API to connect to local or external data sources
 
-In the following, we will exermine each component in detail.
+In the following, we will examine each component in detail.
 
 .. toctree::
    :maxdepth: 1

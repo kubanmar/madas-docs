@@ -1,10 +1,13 @@
 # The MADAS documentation
 
-This project contains the documentation for MADAS - the MAterials DAta Similarity framework.
+This project contains the documentation for *MADAS* - the MAterials DAta Similarity framework.
 
 ## Requirements
 
+```
 pandoc
+Python >= 3.9
+```
 
 ## Install
 

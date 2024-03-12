@@ -1,6 +1,5 @@
 _*
 .vscode
-*.code-workspace
 data
 venv
 .ipynb_checkpoints
