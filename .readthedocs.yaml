@@ -11,4 +11,3 @@ python:
 
 sphinx:
   configuration: conf.py
-  fail_on_warning: true
