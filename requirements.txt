@@ -5,4 +5,4 @@ flask==3.0.2
 jupyter==1.0.0
 scipy
 matplotlib
-madas @ git+git@github.com/kubanmar/madas.git
+madas @ git+git@https://github.com/kubanmar/madas.git
