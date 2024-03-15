@@ -1,0 +1,12 @@
+image: python:3.10
+
+stages:
+  - build
+
+full_test:
+  stage: build
+  before_script:
+    - pip3 install --upgrade pip
+    - pip3 install -r requirements.txt
+  script:
+    - python -m sphinx -T --keep-going -W -b html -d _build/doctrees -D language=en . _build
