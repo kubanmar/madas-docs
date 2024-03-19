@@ -5,6 +5,15 @@ Installation guide
 
 This page shows different ways to install the package.
 
+Installation from PyPI
+++++++++++++++++++++++++++++++++++
+
+The newest stable releases are available via `pip`:
+
+```bash
+pip install madas
+```
+
 Installation from source
 ++++++++++++++++++++++++++++++++++
 
