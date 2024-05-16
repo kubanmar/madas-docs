@@ -10,9 +10,9 @@ Installation from PyPI
 
 The newest stable releases are available via `pip`:
 
-```bash
-pip install madas
-```
+.. code-block:: bash
+    
+    pip install madas
 
 Installation from source
 ++++++++++++++++++++++++++++++++++
