@@ -43,6 +43,8 @@ The corresponding code would look like this:
 
 .. code-block:: python
 
+   from ase import Atoms
+
    from madas import Material, Fingerprint
 
    def MAN_similarity(fingerprint1, fingerprint2):
