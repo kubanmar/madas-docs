@@ -21,7 +21,7 @@ Currently, the code can be installed only through the git project. You can clone
 
 .. code-block:: bash
 
-    git clone git@github.com:kubanmar/madas.git
+    git clone --recurse-submodules https://github.com/kubanmar/madas.git
 
 After cloning, you can enter the project folder and install the package using ``pip``:
 
@@ -29,7 +29,6 @@ After cloning, you can enter the project folder and install the package using ``
 
     cd madas
     pip install .
-    cd ..
 
 Running tests
 ++++++++++++++++++++++++++++++++++
