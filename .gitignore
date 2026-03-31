@@ -4,3 +4,4 @@ _*
 data
 venv
 .ipynb_checkpoints
+*.npy
