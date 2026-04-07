@@ -9,13 +9,19 @@ You can also read them here:
 .. toctree::
    :maxdepth: 1
 
-   tutorials/0_API_usage
-   tutorials/1_custom_Backend
+   tutorials/0_preparations_and_installation
+   tutorials/1_data_download_and_management
+   tutorials/2_using_material_fingerprints
+   tutorials/3_similarity_matrix_and_clustering
+   tutorials/4_NOMAD_API_usage
+   tutorials/5_custom_Backend
+   tutorials/6_custom_API
 
 You can also download the tutorials as Python notebooks for following them interactively here:
 
-* :download:`Tutorial 0: Using the NOMAD API <tutorials/0_API_usage.ipynb>`
-* :download:`Tutorial 1: Writing a custom Backend <tutorials/1_custom_Backend.ipynb>`
+* :download:`Tutorial 1: Data download and management <tutorials/1_data_download_and_management.ipynb>`
+* :download:`Tutorial 4: Using the NOMAD API <tutorials/4_NOMAD_API_usage.ipynb>`
+* :download:`Tutorial 5: Writing a custom Backend <tutorials/5_custom_Backend.ipynb>`
 
 
 **More tutorials will be added soon!**
