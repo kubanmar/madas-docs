@@ -10,7 +10,7 @@ To do so, a query has to be defined, that can be sent to the NOMAD servers. If d
 `MADAS` provides a wrapper for the NOMAD API, that allows users to query NOMAD and recieve the results as :doc:`Material </modules/material>` objects. 
 Then, the data can be processed and filtered to be stored in a :doc:`database </modules/data_framework>`. 
 
-A complete tutorial with examples is in :doc:`the tutorials section </tutorials/0_API_usage>`. 
+A complete tutorial with examples is in :doc:`the tutorials section </tutorials/4_NOMAD_API_usage>`. 
 
 .. automodule:: madas.apis.NOMAD_web_API
     :members:
