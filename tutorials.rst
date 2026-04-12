@@ -3,8 +3,7 @@
 Tutorials
 ==========
 
-In the following you find tutorials that introduce the functionalities of `madas`. 
-You can also read them here:
+In the following you find tutorials that introduce the functionalities of MADAS. 
 
 .. toctree::
    :maxdepth: 1
@@ -17,7 +16,7 @@ You can also read them here:
    tutorials/5_custom_Backend
    tutorials/6_custom_API
 
-You can also download the tutorials as Python notebooks for following them interactively here:
+You can also download the tutorials as Python notebooks for following them interactively. Please make sure you follow the :doc:`instructions for installation </tutorials/0_preparations_and_installation>` before starting.
 
 * :download:`Tutorial 1: Data download and management <tutorials/1_data_download_and_management.ipynb>`
 * :download:`Tutorial 2: Using material fingerprints <tutorials/2_using_material_fingerprints.ipynb>`
