@@ -18,11 +18,11 @@ In the following you find tutorials that introduce the functionalities of MADAS.
 
 You can also download the tutorials as Python notebooks for following them interactively. Please make sure you follow the :doc:`instructions for installation </tutorials/0_preparations_and_installation>` before starting.
 
-* :download:`Tutorial 1: Data download and management <tutorials/tutorials_download/1_data_download_and_management.ipynb>`
-* :download:`Tutorial 2: Using material fingerprints <tutorials/tutorials_download/2_using_material_fingerprints.ipynb>`
-* :download:`Tutorial 3: Similarity matrices and clustering <tutorials/tutorials_download/3_similarity_matrix_and_clustering.ipynb>`
-* :download:`Tutorial 4: Using the NOMAD API <tutorials/tutorials_download/4_NOMAD_API_usage.ipynb>`
-* :download:`Tutorial 5: Writing a custom Backend <tutorials/tutorials_download/5_custom_Backend.ipynb>`
+* :download:`Tutorial 1: Data download and management <_static/tutorials_download/1_data_download_and_management.ipynb>`
+* :download:`Tutorial 2: Using material fingerprints <_static/tutorials_download/2_using_material_fingerprints.ipynb>`
+* :download:`Tutorial 3: Similarity matrices and clustering <_static/tutorials_download/3_similarity_matrix_and_clustering.ipynb>`
+* :download:`Tutorial 4: Using the NOMAD API <_static/tutorials_download/4_NOMAD_API_usage.ipynb>`
+* :download:`Tutorial 5: Writing a custom Backend <_static/tutorials_download/5_custom_Backend.ipynb>`
 
 
 **More tutorials will be added soon!**
